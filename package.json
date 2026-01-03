@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+"regression" : "npx playwright test",
+"dummy" : "npx playwright test saucedemo.spec.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
