@@ -1,7 +1,7 @@
 class CartPage
 {
 
-
+//this is just a new comment
     constructor(page)
     {
 
